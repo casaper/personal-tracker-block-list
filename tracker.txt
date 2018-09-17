@@ -1,7 +1,10 @@
 ! 9/16/2018, 5:36:28 AM arte.tv
 ||tracking-*.dvetech.fr^$script
 
+! tagesanzeiger.ch || newsnetz.ch
 ||*.newsnetz.ch/upload/1/2/127790.png$image,domain=tagesanzeiger.ch
+! 9/17/2018, 10:32:00 AM-> useless social media script
+||newsnetz.ch/scripts/sm.js$script,domain=tagesanzeiger.ch
 
 ! 9/16/2018, 6:15:11 PM heise.de
 ||heise.de/avw-bin/ivw/CP/barfoo/ho/*/*.gif?d=*$image,domain=heise.de
