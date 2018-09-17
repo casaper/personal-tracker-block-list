@@ -1,0 +1,12 @@
+! 9/16/2018, 5:36:28 AM arte.tv
+||tracking-*.dvetech.fr^$script
+
+||*.newsnetz.ch/upload/1/2/127790.png$image,domain=tagesanzeiger.ch
+
+! 9/16/2018, 6:15:11 PM heise.de
+||heise.de/avw-bin/ivw/CP/barfoo/ho/*/*.gif?d=*$image,domain=heise.de
+||heise.de/ivw-bin/ivw/CP/newsticker/$image,domain=heise.de
+
+! 9/16/2018, 7:37:26 PM golem.de
+||golem.de^$inline-script,first-party
+||iqdtms.golem.de/iqd_gzip_test.js.gz$script,domain=golem.de
